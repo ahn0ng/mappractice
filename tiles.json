@@ -1,0 +1,39 @@
+[
+  {
+    "name": "house.png",
+    "frame": {
+      "x": "0",
+      "y": "0",
+      "width": "32",
+      "height": "32"
+    }
+  },
+  {
+    "name": "water.png",
+    "frame": {
+      "x": "32",
+      "y": "0",
+      "width": "32",
+      "height": "32"
+    }
+  },
+  {
+    "name": "grass.png",
+    "frame": {
+      "x": "0",
+      "y": "32",
+      "width": "32",
+      "height": "32"
+    }
+  },
+  {
+    "name": "ground.png",
+    "frame": {
+      "x": "32",
+      "y": "32",
+      "width": "32",
+      "height": "32"
+    }
+  }
+ 
+]
